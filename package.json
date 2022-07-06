@@ -8,8 +8,8 @@
     "watch": "ts-node index.ts  --watch",
     "cypress": "cypress open"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "DevTools AI",
+  "license": "Apache-2.0",
   "dependencies": {
     "@devtools-ai/cypress-sdk": "^0.0.3",
     "@devtools-ai/js-sdk": "^0.0.3",
